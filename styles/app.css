@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(31, 31, 31);
+  text-align: center;
+}
+
+#bar-chart-canvas {
+  margin: 50px;
+}
+
+#line-chart-canvas {
+  margin: 50px;
+}
+
+#radar-chart-canvas {
+  margin: 50px;
+}
