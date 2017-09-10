@@ -1,5 +1,5 @@
 # DASH
 
-Deployed, here - https://douglasdotbyers.github.io/dash/dash.html
+Deployed, here – https://douglasdotbyers.github.io/dash/dash.html
 
-Generic dashboard concept - bar chart, line chart, radar chart.
+Generic dashboard concept – bar chart, line chart, radar chart.
